@@ -14,7 +14,7 @@ Read or watch:
 * Scripts written in Bash 4.3.11(1)
 * Tested on Ubuntu 14.04 LTS
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg" width="300px"/>
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220820T003701Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=99389a4ef38ca3c5425485f21a2bcc59fc8b147ed766cfeab7d8066e4b11d4e5" width="300px"/>
 
 ## Files
 
@@ -25,7 +25,7 @@ Read or watch:
 | `2-show_your_bash_pid` | Displays lines containing the `bash` word in a list of currently running processes |
 | `3-show_your_bash_pid_made_easy` | Displays the PID, along with the process name, of processes whose name contain the word `Bash` |
 | `4-to_infinity_and_beyond` | Displays `To infinity and beyond` indefinitely |
-| `5-dont_stop_me-now` | Kills `4-to_infinity_and_beyond` process |
+| `5-dont_stop_me_now` | Kills `4-to_infinity_and_beyond` process |
 | `6-stop_me_if_you_can` | Kills `4-to_infinity_and_beyond` process |
 | `7-highlander` | Displays `To infinity and beyond` indefinitely and displays `I am invincible!!!` when receiving a `SIGTERM` signal |
 | `8-beheaded_process` | Kills the process `7-highlander` |
