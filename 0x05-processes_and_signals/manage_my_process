@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #Writes a message to a file
-while :
+while true
 do
 	echo "I am alive!" >> /tmp/my_process
 	sleep 2
