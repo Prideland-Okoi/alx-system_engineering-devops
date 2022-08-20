@@ -2,7 +2,7 @@
 
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about PID, processes and commands that handles them (`ps`, `pgrep`, `pkill`, `kill`, etc) in **Bash**.
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d8ecfe9109334898b9540ffd20cf64d1c06f0c09.jpg" width="400px"/>
+<img src="https://devopedia.org/images/article/197/5091.1562685662.png" width="400px"/>
 
 ## Resources
 Read or watch:
@@ -14,7 +14,6 @@ Read or watch:
 * Scripts written in Bash 4.3.11(1)
 * Tested on Ubuntu 14.04 LTS
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220820T003701Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=99389a4ef38ca3c5425485f21a2bcc59fc8b147ed766cfeab7d8066e4b11d4e5" width="300px"/>
 
 ## Files
 
