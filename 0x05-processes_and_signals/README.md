@@ -11,8 +11,8 @@ Read or watch:
 * [Linux signal](https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
+* Scripts written in Bash 4.4.23(2)
+* Tested on Ubuntu 20.04 LTS
 
 
 ## Files
