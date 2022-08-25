@@ -1,7 +1,7 @@
 # Networking basics
 Project done during **ALX Software Engineering Scholarship 2022** at **Alx Students Education**. It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet and TCP/UDP.
 
-<img src"https://miro.medium.com/max/1400/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg" width="400px"/>
+<img src="https://miro.medium.com/max/1400/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg" width="400px"/>
 
 ## Resources
 Read or watch:
