@@ -19,8 +19,8 @@ Read or watch:
 * [SSH Key Authentication | How to Create SSH Key Pairs](https://www.youtube.com/watch?v=33dEcCKGBO4)
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
+* Scripts written in Bash 4.4.23(2)
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 
