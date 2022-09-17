@@ -2,6 +2,8 @@
 
 Project done during **ALX Stack Software Scholarship 2022** at **Alx Students Education**. It aims to learn about how to design a Web Infrastructure.
 
+<img src="https://dksignmt.com/wp-content/uploads/2015/04/servidor-lamp.jpg" width="600px"/>
+
 ## Resources
 
 Read or watch:
