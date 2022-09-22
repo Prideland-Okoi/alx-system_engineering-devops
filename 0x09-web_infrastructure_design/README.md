@@ -27,8 +27,8 @@ Read or watch:
 <img src="https://dksignmt.com/wp-content/uploads/2015/04/servidor-lamp.jpg" width="400px"/>
 
 ## Technologies
-[Mural]()
-[Postimage]()
+[Mural](app.mural.co)
+[Postimage](i.postimg.cc)
 
 ## Files
 
