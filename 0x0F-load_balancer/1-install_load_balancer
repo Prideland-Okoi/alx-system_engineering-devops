@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Install and configure HAproxy on my 45650-lb-01 server.
-apt-get -y install haproxy
+sudo pt-get -y install haproxy
 
 # edit config file
 server_config=\
@@ -18,6 +18,6 @@ backend prideland-alx-backend
 
  # enable haproxy to be started by init script
 
- echo "ENABLED=1" >> /etc/default/haproxy
+echo "ENABLED=1" >> /etc/default/haproxy
 
- sudo service haproxy restart
+sudo service haproxy restart
