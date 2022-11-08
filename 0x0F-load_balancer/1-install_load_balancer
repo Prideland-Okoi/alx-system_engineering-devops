@@ -1,19 +1,16 @@
 #!/usr/bin/env bash
 # Install and configure HAproxy on my 45650-lb-01 server.
-sudo pt-get -y install haproxy
-# edit config file
-server_config=\
-"
-frontend  prideland-alx-frontend
+# Distribute requests using roundrobin algorithm
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install haproxy -y
+sudo echo "ENABLED=1" >> /etc/default/haproxy
+sudo echo "frontend  prideland_alx_frontend
         bind *:80
-        mode http
-        default_backend prideland-alx-backend
-backend prideland-alx-backend
+        stats uri /haproxy?stats
+        default_backend prideland_alx_backend
+backend prideland_alx_backend
         balance roundrobin
-        server 45650-web-01 3.81.28.4:80 check
-        server 45650-web-02 100.25.191.46:80 check
-"
-echo "$server_config" >> /etc/haproxy/haproxy.cfg
-# enable haproxy to be started by init script
-echo "ENABLED=1" >> /etc/default/haproxy
-sudo service haproxy restart
+        server 45650-web-01 54.144.44:80 check
+        server 45650-web-02 100.25.191.46:80 check" >> /etc/haproxy/haproxy.cfg
+sudo service haproxy start
