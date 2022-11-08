@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install and configure HAproxy on my 45650-lb-01 server.
+ to send traffic to web-01 and web-02# Install and configure HAproxy on my 45650-lb-01 server.
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install haproxy -y
