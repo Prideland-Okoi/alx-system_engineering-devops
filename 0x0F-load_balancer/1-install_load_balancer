@@ -10,6 +10,6 @@ sudo echo "frontend  prideland_alx_frontend
         default_backend prideland_alx_backend
 backend prideland_alx_backend
         balance roundrobin
-        server 45650-web-01 54.144.44:80 check
+        server 45650-web-01 54.144.44.80:80 check
         server 45650-web-02 100.25.191.46:80 check" >> /etc/haproxy/haproxy.cfg
 sudo service haproxy start
